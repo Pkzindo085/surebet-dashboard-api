@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "surebet-dashboard",
+  "private_key_id": "c11e36c25e232b7efd0f9c66043f638dbb3dfe5a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/yvtcdGAbM76Z\n4FN0JVNHWDDwQEHcyeZ/b1nFXgWRzz9V1JLr6NzToPZuEXLwQ1XFyMfh/11TjU37\nEOq150ace62SMVj7uo5ueVAMquwmjVY9xgVZCtIWpYMyyBBKSwkWopCwn+v8GukZ\noNS/kqKl3MciHo17CiuSl0vThonyIbOr8b7xc34/ABv1hrIBS8PXuV/Bc1ugEoK8\nJpJa1OE7Co4hHTa2zLDRMsk4HXOTgl4lhKMlSe1yrntuSf1cnNh/yHadmIcBMwnM\ncnaJlpyYLqy82WXLuzum4wMvJVT7YzBGBJjf2yuMLAs5YOlixEyWc7R2nFyDAM0S\n2P1nKX0fAgMBAAECggEAMSr3T5dh//c++LHCkzbyZ4rbWOwQNmroFWlVaTyWTvAD\ne5x4YdQbsIFGS6dbgO6yMXcsjuppYX8LK78FfMaimoE2WREfj8EevIGLHQRAcA2x\nuzplqpMUksuxm7YgPvuHg+7/Ctikpce8VF6fy9Dqs3yq7DtK5+0OiJES1lJaUOES\nUUH106gFejwKS3TOIzaRdrzCDxbIcgiBk9Z9mr/0R/oTX1ivLNAEKpLtfYSZsLUX\nqaM1t9z5SBXzQ3k0IXCzIvt2Dm4evu470L8Cv+dPlaKqRGXEL6dXVceoD62aYtHt\nuSf6/xAv4FZE+QuLxCLxAdTTnIP7HINsmWZn0DqAAQKBgQD9HhQTlS6u6tfudTBg\ndbSQqXOmjvt4ZwbahY0vhTSwtJuR3QI8LdLVshTtXIkj6d1LgQ8AphcdKUSO11Ye\ny8XD9lOJN9nqPOWvCZtp9/hBMb6IAzO3rliwlncEiWPADzr/Ni84VT4i1N4tpU3i\na82DMMPWj7Y0oDi+SAL0Gd+9HwKBgQDB+h80B1LjEn30fc5otJ0WHmg1UlTo/DwS\nUd9o0au5P91buHiOuXFM8xhPvrf+Vkz7IrOZVpSx8tkHR1yV2/4YB/ZGdeDJZVBY\nSwCQGPg38avzbpKzcP+jiIGafQRdh2OAckFI2NK3MGg4naaOeU6wF3oeVbXIjfKo\nxEyb375AAQKBgQCbJBl4G0Me0TCCpu984AhJdqM9HnxBwxwvShZMXx/5gumrkMPy\n8L8+XcV36vTfv1L1GWiBpEucgxPTXWcavxk7UDrJayM08BhznbbVT7io9P1sTlIf\nrkwMCF1wuWkbafpmPObaZ10Lal+3qI9BTYQMehI+65zpSp8c+fRde5JoTwKBgQCR\nxIVoUsyd6UqPzW6sTnXxpj4HO+yk/M+jsLTjjxSt7GlLQNAP6RlUiyXM33RjA7Vr\nz8MJSwAIzYb8KktQLna+1lTi1Dhs/96lyw8MOkdluw3NrF0/zX2+BZnnX2VFZ7WF\nU9btiEqo8Q6Q5R/B1zUjrTDO1Pf7U3h0DLfJNxVAAQKBgQDLSxjHRGFnQwNzWw8a\nm/G97jFIGiipCGcx5owjiDbt/rSUQibkFHD1sjdiTaLukmiTjn/dUL01HmOI0iuP\nJiJgzLL9gkfugkwIBRUgcVhDOuyVsXaetvLJGRgzfYm7nDub9gZD2VOQfsed+iXh\ncwVC5Q9bkNlC8JKaNDGXpot7HQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pk-983@surebet-dashboard.iam.gserviceaccount.com",
+  "client_id": "115578613613560001359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pk-983%40surebet-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
